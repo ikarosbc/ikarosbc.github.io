@@ -501,6 +501,24 @@ h3.header {
      
 }
 
+.board-name{
+    padding:0px;
+    text-align: center;
+    margin-top:12px;
+    margin-bottom:12px;
+    font-size:var(--text-lg);
+    font-weight: 700;
+    /*border:1px solid yellow;*/
+}
 
 
-
+.board-title{
+    display:block;
+    /*border-right:2px solid black;*/
+    padding-right:12px;
+    margin-right:12px;
+    font-weight: 700;
+}
+.board-small-name{
+    font-weight: 400;
+}
